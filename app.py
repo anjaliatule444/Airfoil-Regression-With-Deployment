@@ -1,7 +1,6 @@
 import pickle
 import flask
 from flask import app,request,Flask,Request,jsonify,url_for,render_template
-from flask_cors import CORS
 import numpy as np
 import pandas as pd
 import sklearn
